@@ -1,4 +1,4 @@
-= Levanto de Requisitos do SISLEGIS
+= Levantamento de Requisitos do SISLEGIS
 :author: PJ-74
 
 == Introdução
